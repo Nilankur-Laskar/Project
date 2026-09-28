@@ -1,14 +1,14 @@
-#Project Statement
+# Project Statement
 
-##Project Title
+## Project Title
 Patient Management System
 
-##Introduction
+## Introduction
 This project is a simple Patient Management System developed using Python. It is designed for beginners who are learning programming and want to understand how data can be stored, updated, searched, and deleted using python dictionaries and function.
 
 The program runs in the terminal and provides a menu-driven interface. Users can add patient information, update details, remove records, and display all stored patients.
 
-##Objective 
+## Objective 
 The main objective of this project of this project is to practice fundamental Python concepts such as:
 -Fuctions
 -Dictionaries
@@ -17,7 +17,7 @@ The main objective of this project of this project is to practice fundamental Py
 -User input handling 
 -Basic data Management 
 
-##Features
+## Features
 1. Add a new patient with a blood group
 2. Search  for patient by name.
 3. Update a patient's blood group.
@@ -33,7 +33,7 @@ The system stores patients information in a dictionary where:
 -The patient's name is used as the key
 -The blood group is stored as a value.
 
-##Learning Outcomes
+## Learning Outcomes
 By completing this project, a beginning can learn:
 -Organizing code using function
 -How dictionaries work in Python.
